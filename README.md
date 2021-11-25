@@ -24,3 +24,6 @@ You can build relative URL
   struct holder relative_uri(const struct uri *base, const struct uri *relative);
 
 You can write own logic for build relative URL.
+
+
+Good luck with projects.
