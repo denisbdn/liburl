@@ -1,6 +1,16 @@
 # liburl
 Fast c URL parser
 
+
+Compile on linux
+
+cd project_path
+
+cmake .
+
+make
+
+
 For parse URL use function from "uri_parse.h"
 
   enum uri_res parse_uri(const char *uri, struct uri *build);
